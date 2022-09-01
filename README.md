@@ -1,4 +1,7 @@
-                    ## Revisar arreglos
+# RevisandoArray
+siempre es bueno reforsar lo aprendido
+
+ ## Revisando  arreglos
 
  * Los arreglos son listas que almacenan datos en JavaScript.
  
