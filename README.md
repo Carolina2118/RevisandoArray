@@ -1,5 +1,5 @@
 # RevisandoArray
-siempre es bueno reforsar lo aprendido
+siempre es bueno reforzar lo aprendido
 
  ## Revisando  arreglos
 
